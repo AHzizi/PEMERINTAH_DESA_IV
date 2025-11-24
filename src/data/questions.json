@@ -1,502 +1,1202 @@
 [
   {
-    "nomor_soal": 1,
-    "pertanyaan": "Tujuan utama dari badan usaha milik desa ataupun desa adalah…",
-    "jawaban_benar": "A. Untuk sebesar-besarnya kesejahteraan rakyat"
-  },
-  {
-    "nomor_soal": 2,
-    "pertanyaan": "Pendirian bumdes disepakati melalui..",
-    "jawaban_benar": "B. musyawarah desa"
-  },
-  {
-    "nomor_soal": 3,
-    "pertanyaan": "Pendirian bumdes ditetapkan dengan…",
-    "jawaban_benar": "A. Peraturan desa"
-  },
-  {
-    "nomor_soal": 4,
-    "pertanyaan": "Hasil usaha bumdes dimanfaatkan untuk kegiatan berikut ini kecuali…",
-    "jawaban_benar": "D. kesejahteraan perangkat desa"
-  },
-  {
-    "nomor_soal": 5,
-    "pertanyaan": "Berikut ini adalah upaya pemerintah daerah dalam mendorong perkembangan bumdes kecuali…",
-    "jawaban_benar": "C. mengarahkan pada produk tertentu yang menguntungkan pemerintah daerah"
-  },
-  {
-    "nomor_soal": 6,
-    "pertanyaan": "Penyelenggaraan urusan pemerintahan dan kepentingan masyarakat setempat dalam sistem pemerintahan Negara kesatuan Republik Indonesia adalah definisi dari…",
-    "jawaban_benar": "B. pemerintahan desa"
-  },
-  {
-    "nomor_soal": 7,
-    "pertanyaan": "Kepala desa atau yang disebut dengan nama lain dibantu perangkat desa sebagai unsur penyelenggara pemerintahan desa merupakan definisi dari…",
-    "jawaban_benar": "A. Pemerintah Desa"
-  },
-  {
-    "nomor_soal": 8,
-    "pertanyaan": "Lembaga yang melaksanakan fungsi pemerintahan yang anggotanya merupakan wakil dari penduduk desa berdasarkan keterwakilan wilayah dan ditetapkan secara demokratis merupakan definisi dari…",
-    "jawaban_benar": "D. badan permusyawaratan desa"
-  },
-  {
-    "nomor_soal": 9,
-    "pertanyaan": "Peraturan perundang-undangan yang ditetapkan oleh kepala Desa setelah dibahas dan disepakati bersama badan permusyawaratan desa merupakan definisi dari…",
-    "jawaban_benar": "A. Peraturan desa"
-  },
-  {
-    "nomor_soal": 10,
-    "pertanyaan": "Upaya peningkatan kualitas hidup dan kehidupan untuk sebesar-besarnya kesejahteraan masyarakat desa merupakan definisi dari…",
-    "jawaban_benar": "C. Pembangunan desa"
-  },
-  {
-    "nomor_soal": 11,
-    "pertanyaan": "Syarat pembentukan Desa baru yaitu batas usia desa induk paling sedikit ... tahun",
-    "jawaban_benar": "A. 5 tahun"
-  },
-  {
-    "nomor_soal": 12,
-    "pertanyaan": "Untuk membentuk Desa Baru di wilayah Jawa paling sedikit titik-titik jiwa ...",
-    "jawaban_benar": "D. 6000"
-  },
-  {
-    "nomor_soal": 13,
-    "pertanyaan": "Untuk membentuk Desa Baru di wilayah Sumatera paling sedikit... Jiwa",
-    "jawaban_benar": "B. 3000"
-  },
-  {
-    "nomor_soal": 14,
-    "pertanyaan": "Untuk membentuk Desa Baru wilayah Papua paling sedikit... Jiwa",
-    "jawaban_benar": "C. 500"
-  },
-  {
-    "nomor_soal": 15,
-    "pertanyaan": "BPD memberitahukan kepada kepala desa mengenai akan berakhirnya masa jabatan kepala desa secara tertulis... Bulan sebelum masa jabatannya berakhir",
-    "jawaban_benar": "D. 6"
-  },
-  {
-    "nomor_soal": 16,
-    "pertanyaan": "Pembentukan panitia pemilihan kepala desa dilakukan oleh...",
-    "jawaban_benar": "A. BPD"
-  },
-  {
-    "nomor_soal": 17,
-    "pertanyaan": "Panitia pemilihan kepala desa terdiri atas unsur berikut ini kecuali…",
-    "jawaban_benar": "B. BPD"
-  },
-  {
-    "nomor_soal": 18,
-    "pertanyaan": "Salah satu syarat calon kepala desa harus terdaftar sebagai penduduk dan bertempat tinggal di desa tersebut paling kurang...tahun",
-    "jawaban_benar": "D. 1"
-  },
-  {
-    "nomor_soal": 19,
-    "pertanyaan": "Biaya pemilihan kepala desa dibebankan pada...",
-    "jawaban_benar": "C. APBD kabupaten atau kota"
-  },
-  {
-    "nomor_soal": 20,
-    "pertanyaan": "Calon kepala Desa terpilih dilantik oleh bupati atau walikota atau pejabat yang ditunjuk paling lama... Hari setelah penerbitan keputusan Bupati atau walikota.",
-    "jawaban_benar": "B. 30 hari"
-  },
-  {
-    "nomor_soal": 21,
-    "pertanyaan": "Berikut ini merupakan tujuan dari pengaturan Desa kecuali…",
-    "jawaban_benar": "D. Menjadikan pemerintah desa untuk meningkatkan kekayaan desa"
-  },
-  {
-    "nomor_soal": 22,
-    "pertanyaan": "Proses pengambilan keputusan yang menyangkut kepentingan masyarakat Desa melalui diskusi dengan berbagai pihak yang berkepentingan merupakan asas …",
-    "jawaban_benar": "C. Musyawarah"
-  },
-  {
-    "nomor_soal": 23,
-    "pertanyaan": "Pengaturan Desa berasaskan…",
-    "jawaban_benar": "D. Semua benar"
-  },
-  {
-    "nomor_soal": 24,
-    "pertanyaan": "Salah satu asas pengaturan Desa yaitu adanya pengakuan terhadap hak asal usul atau disebut dengan asas…",
-    "jawaban_benar": "A. Rekognisi"
-  },
-  {
-    "nomor_soal": 25,
-    "pertanyaan": "Penetapan kewenangan berskala lokal dan pengambilan keputusan secara lokal untuk kepentingan masyarakat desa merupakan asas …",
-    "jawaban_benar": "B. Subsidiaritas"
-  },
-  {
-    "nomor_soal": 26,
-    "pertanyaan": "Semangat untuk berperan aktif dan bekerja sama dengan prinsip saling menghargai antara kelembagaan di tingkat desa dan unsur masyarakat desa dalam membangun desa merupakan asas…",
-    "jawaban_benar": "A. Kebersamaan"
-  },
-  {
-    "nomor_soal": 27,
-    "pertanyaan": "Suatu proses yang dilakukan oleh pemerintah Desa dan masyarakat desa untuk melakukan suatu kegiatan dalam rangka memenuhi kebutuhannya dengan kemampuan sendiri merupakan asas…",
-    "jawaban_benar": "D. Kemandirian"
-  },
-  {
-    "nomor_soal": 28,
-    "pertanyaan": "Semangat untuk berperan aktif dan bekerja sama dengan prinsip saling menghargai antara kelembagaan di tingkat desa dan unsur masyarakat desa dalam membangun desa merupakan asas…",
-    "jawaban_benar": "A. Kebersamaan"
-  },
-  {
-    "nomor_soal": 29,
-    "pertanyaan": "Kebiasaan saling tolong-menolong untuk membangun desa merupakan asas…",
-    "jawaban_benar": "B. Kegotongroyongan"
-  },
-  {
-    "nomor_soal": 30,
-    "pertanyaan": "Kebiasaan warga masyarakat desa sebagai bagian dari satu kesatuan keluarga besar masyarakat desa merupakan asas…",
-    "jawaban_benar": "C. Kekeluargaan"
-  },
-  {
-    "nomor_soal": 31,
-    "pertanyaan": "Kawasan yang mempunyai kegiatan utama pertanian, termasuk pengelolaan sumber daya alam dengan susunan fungsi kawasan sebagai tempat pemukiman pedesaan, pelayanan jasa pemerintahan, pelayanan sosial, dan kegiatan ekonomi adalah…",
-    "jawaban_benar": "D. kawasan perdesaan"
-  },
-  {
-    "nomor_soal": 32,
-    "pertanyaan": "Pengaturan keuangan desa diselenggarakan dengan ruang lingkup tersebut dibawah ini kecuali…",
-    "jawaban_benar": "C. perhitungan penerimaan desa"
-  },
-  {
-    "nomor_soal": 33,
-    "pertanyaan": "Dana desa adalah dana yang bersumber dari",
-    "jawaban_benar": "D. anggaran pendapatan dan belanja negara"
-  },
-  {
-    "nomor_soal": 34,
-    "pertanyaan": "Anggota badan permusyawaratan desa berhak…",
-    "jawaban_benar": "D. Semua benar"
-  },
-  {
-    "nomor_soal": 35,
-    "pertanyaan": "Menyerap, menampung, menghimpun dan menindaklanjuti aspirasi masyarakat desa adalah kewajiban dari…",
-    "jawaban_benar": "B. BPD"
-  },
-  {
-    "nomor_soal": 36,
-    "pertanyaan": "Yang bukan larangan dari anggota BPD adalah…",
-    "jawaban_benar": "C. bekerja di sebuah perusahaan"
-  },
-  {
-    "nomor_soal": 37,
-    "pertanyaan": "Bagian hasil pajak Daerah dan retribusi Daerah kabupaten atau kota merupakan salah satu sumber pendapatan desa yang besarnya…",
-    "jawaban_benar": "A. 10%"
-  },
-  {
-    "nomor_soal": 38,
-    "pertanyaan": "Dalam UU nomor 6 Tahun 2014 disebutkan bahwa Desa berkewajiban…",
-    "jawaban_benar": "D. Semua benar"
-  },
-  {
-    "nomor_soal": 39,
-    "pertanyaan": "Berikut adalah yang bukan merupakan tujuan penataan Desa yaitu…",
-    "jawaban_benar": "D. Meningkatkan kesenjangan desa"
-  },
-  {
-    "nomor_soal": 40,
-    "pertanyaan": "Masa jabatan kepala desa adalah…",
-    "jawaban_benar": "A. 6 tahun dan dapat menjabat paling lama tiga kali"
-  },
-  {
-    "nomor_soal": 41,
-    "pertanyaan": "Yang bukan merupakan asas peraturan desa adalah",
-    "jawaban_benar": "C. Kesenjangan"
-  },
-  {
-    "nomor_soal": 42,
-    "pertanyaan": "Berikut yang bukan merupakan tujuan dari pengaturan desa adalah..",
-    "jawaban_benar": "D. Menggalang dana desa untuk pembuatan fasilitas umum"
-  },
-  {
-    "nomor_soal": 43,
-    "pertanyaan": "Berdasarkan pasal 6 undang-undang Desa nomor 6 Tahun 2014 desa terdiri atas…",
-    "jawaban_benar": "D. Desa dan desa adat"
-  },
-  {
-    "nomor_soal": 44,
-    "pertanyaan": "Yang dimaksud dengan pembangunan desa adalah…",
-    "jawaban_benar": "A. Upaya peningkatan kualitas hidup dan kehidupan untuk sebesar-besarnya kesejahteraan masyarakat desa"
-  },
-  {
-    "nomor_soal": 45,
-    "pertanyaan": "Berikut tujuan dari penataan Desa kecuali…",
-    "jawaban_benar": "C. Melestarikan dan memajukan adat tradisi dan budaya masyarakat desa"
-  },
-  {
-    "nomor_soal": 46,
-    "pertanyaan": "Pembentukan Desa ditetapkan dengan peraturan daerah kabupaten atau kota dengan mempertimbangkan…",
-    "jawaban_benar": "D. Semua benar"
-  },
-  {
-    "nomor_soal": 47,
-    "pertanyaan": "Dalam BUMDes seluruh atau sebagian modalnya dimiliki oleh…",
-    "jawaban_benar": "B. Desa"
-  },
-  {
-    "nomor_soal": 48,
-    "pertanyaan": "Barang milik desa yang berasal dari kekayaan asli desa, dibeli atau diperoleh atas beban anggaran pendapatan dan belanja desa atau perolehan hak lainnya yang sah merupakan definisi dari…",
-    "jawaban_benar": "B. Aset desa"
-  },
-  {
-    "nomor_soal": 49,
-    "pertanyaan": "Memberikan pengakuan dan penghormatan atas desa ya sudah ada dengan keberagamannya sebelum dan sesudah terbentuknya Negara kesatuan Republik Indonesia, merupakan salah satu tujuan dari…",
-    "jawaban_benar": "C. Pengaturan desa"
-  },
-  {
-    "nomor_soal": 50,
-    "pertanyaan": "Berikut ini merupakan tujuan pengaturan Desa dalam membentuk pemerintahan desa kecuali…",
-    "jawaban_benar": "B. Membentuk pemerintahan desa yang berkuasa"
-  },
-  {
-    "nomor_soal": 51,
-    "pertanyaan": "Penataan Desa meliputi 5 hal yaitu…",
-    "jawaban_benar": "C. Pembentukan, penghapusan, penggabungan perubahan status, penetapan desa"
-  },
-  {
-    "nomor_soal": 52,
-    "pertanyaan": "Tindakan pengadaan Desa Baru di luar desa yang ada merupakan maksud dari…",
-    "jawaban_benar": "A. Pembentukan Desa"
-  },
-  {
-    "nomor_soal": 53,
-    "pertanyaan": "Salah satu syarat pembentukan desa adalah batas usia desa induk yaitu…",
-    "jawaban_benar": "D. Paling sedikit 5 tahun terhitung sejak pembentukan"
-  },
-  {
-    "nomor_soal": 54,
-    "pertanyaan": "Salah satu syarat pembentukan desa adalah memiliki potensi yang meliputi hal berikut kecuali…",
-    "jawaban_benar": "A. History Desa"
-  },
-  {
-    "nomor_soal": 55,
-    "pertanyaan": "Dalam wilayah Desa dibentuk Dusun atau yang disebut dengan nama lain yang disesuaikan dengan hal berikut kecuali…",
-    "jawaban_benar": "C. Batas wilayah"
-  },
-  {
-    "nomor_soal": 56,
-    "pertanyaan": "Pembentukan Desa dilakukan melalui…",
-    "jawaban_benar": "B. Desa persiapan"
-  },
-  {
-    "nomor_soal": 57,
-    "pertanyaan": "Desa persiapan dapat ditingkatkan statusnya menjadi Desa dalam jangka waktu…",
-    "jawaban_benar": "A. 1 sampai 3 tahun"
-  },
-  {
-    "nomor_soal": 58,
-    "pertanyaan": "Desa dapat berubah status menjadi kelurahan berdasarkan prakarsa pemerintah desa dan badan permusyawaratan desa melalui…",
-    "jawaban_benar": "A. Musyawarah desa"
-  },
-  {
-    "nomor_soal": 59,
-    "pertanyaan": "Seluruh barang milik desa dan sumber pendapatan desa yang berubah menjadi kelurahan menjadi kekayaan atau aset pemerintah daerah kabupaten atau kota yang digunakan untuk meningkatkan kesejahteraan masyarakat di kelurahan tersebut dan pendanaan kelurahan dibebankan pada …",
-    "jawaban_benar": "C. Anggaran pendapatan dan belanja daerah kabupaten atau kota"
-  },
-  {
-    "nomor_soal": 60,
-    "pertanyaan": "Pendanaan perubahan status kelurahan menjadi Desa dibebankan pada…",
-    "jawaban_benar": "C. Anggaran pendapatan belanja daerah kabupaten atau kota"
-  },
-  {
-    "nomor_soal": 61,
-    "pertanyaan": "Pembentukan, penghapusan, penggabungan dan atau perubahan status Desa ditetapkan dalam…",
-    "jawaban_benar": "D. Peraturan daerah"
-  },
-  {
-    "nomor_soal": 62,
-    "pertanyaan": "Gubernur melakukan evaluasi rancangan peraturan daerah tentang pembentukan penghapusan penggabungan dan atau perubahan status Desa berdasarkan atas beberapa hal berikut, kecuali…",
-    "jawaban_benar": "A. Kepentingan investasi"
-  },
-  {
-    "nomor_soal": 63,
-    "pertanyaan": "Gubernur menyatakan persetujuan terhadap rancangan peraturan daerah tentang pembentukan, penghapusan, penggabungan dan atau perubahan status Desa paling lama…",
-    "jawaban_benar": "C. 20 hari setelah menerima rancangan peraturan daerah"
-  },
-  {
-    "nomor_soal": 64,
-    "pertanyaan": "Penyempurnaan dan penetapan menjadi peraturan daerah oleh pemerintah daerah kabupaten atau kota terhadap persetujuan gubernur atas rancangan peraturan daerah dilakukan paling lama…",
-    "jawaban_benar": "B. 15 hari"
-  },
-  {
-    "nomor_soal": 65,
-    "pertanyaan": "Peningkatan status Desa persiapan menjadi desa dilaksanakan berdasarkan…",
-    "jawaban_benar": "A. Hasil evaluasi"
-  },
-  {
-    "nomor_soal": 66,
-    "pertanyaan": "Berikut merupakan bunyi dari pasal pasal UU desa no 6 tahun 2014 kecuali…",
-    "jawaban_benar": "D. Batas usia desa induk paling sedikit 4 tahun terhitung sejak pembentukan"
-  },
-  {
-    "nomor_soal": 67,
-    "pertanyaan": "Kewenangan Desa meliputi hal-hal berikut yaitu…",
-    "jawaban_benar": "D. Semua jawaban benar"
-  },
-  {
-    "nomor_soal": 68,
-    "pertanyaan": "Selain penyelenggaraan pemerintahan desa penugasan dari pemerintah dan atau pemerintah daerah kepada Desa meliputi…",
-    "jawaban_benar": "D. Semua jawaban benar"
-  },
-  {
-    "nomor_soal": 69,
-    "pertanyaan": "Pemerintahan desa diselenggarakan oleh…",
-    "jawaban_benar": "B. Pemerintah desa"
-  },
-  {
-    "nomor_soal": 70,
-    "pertanyaan": "Yang bukan merupakan asas penyelenggaraan pemerintahan desa adalah…",
-    "jawaban_benar": "D. Kesukuan"
-  },
-  {
-    "nomor_soal": 71,
-    "pertanyaan": "Selain penghasilan tetap kepala desa dan perangkat desa menerima tunjangan yang bersumber dari…",
-    "jawaban_benar": "A. Anggaran pendapatan dan belanja desa"
-  },
-  {
-    "nomor_soal": 72,
-    "pertanyaan": "Menurut pasal 67 ayat 1 Desa berhak…",
-    "jawaban_benar": "D. Semua jawaban benar"
-  },
-  {
-    "nomor_soal": 73,
-    "pertanyaan": "Salah satu hak masyarakat desa adalah masyarakat desa berhak memilih, dipilih dan atau ditetapkan menjadi…",
-    "jawaban_benar": "C. Anggota badan permusyawaratan desa"
-  },
-  {
-    "nomor_soal": 74,
-    "pertanyaan": "Mendorong terciptanya situasi yang aman nyaman dan tentram di desa merupakan…",
-    "jawaban_benar": "B. Kewajiban masyarakat desa"
-  },
-  {
-    "nomor_soal": 75,
-    "pertanyaan": "Jenis peraturan di desa terdiri atas peraturan berikut kecuali…",
-    "jawaban_benar": "B. Peraturan BPD"
-  },
-  {
-    "nomor_soal": 76,
-    "pertanyaan": "Peraturan bersama kepala desa merupakan peraturan yang ditetapkan oleh…",
-    "jawaban_benar": "A. Kepala desa dari 2 desa atau lebih yang melakukan kerjasama antar desa"
-  },
-  {
-    "nomor_soal": 77,
-    "pertanyaan": "Semua hak dan kewajiban desa yang dapat dinilai dengan uang serta segala sesuatu berupa uang dan barang yang berhubungan dengan pelaksanaan hak dan kewajiban desa adalah pengertian dari…",
-    "jawaban_benar": "C. Keuangan desa"
-  },
-  {
-    "nomor_soal": 78,
-    "pertanyaan": "Pemegang kekuasaan pengelolaan keuangan desa adalah…",
-    "jawaban_benar": "B. Kepala desa"
-  },
-  {
-    "nomor_soal": 79,
-    "pertanyaan": "Pengelolaan kekayaan milik desa dilakukan untuk hal berikut kecuali…",
-    "jawaban_benar": "A. Meningkatkan kesejahteraan pemerintah desa"
-  },
-  {
-    "nomor_soal": 80,
-    "pertanyaan": "Pembangunan desa meliputi tahap berikut yaitu…",
-    "jawaban_benar": "B. Perencanaan pelaksanaan dan pengawasan"
-  },
-  {
-    "nomor_soal": 81,
-    "pertanyaan": "Rencana pembangunan tahunan desa disebut juga dengan…",
-    "jawaban_benar": "A. Rencana kerja pemerintah Desa"
-  },
-  {
-    "nomor_soal": 82,
-    "pertanyaan": "hal yang bersifat strategis dalam penyelenggaraan pemerintahan desa meliputi…",
-    "jawaban_benar": "D. Semua jawaban benar"
-  },
-  {
-    "nomor_soal": 83,
-    "pertanyaan": "Rencana kerja pemerintah desa merupakan penjabaran dari…",
-    "jawaban_benar": "D. RPJM desa untuk jangka waktu 1 tahun"
-  },
-  {
-    "nomor_soal": 84,
-    "pertanyaan": "pelaksanaan pembangunan desa dilakukan dengan memanfaatkan…",
-    "jawaban_benar": "C. Kearifan lokal dan sumber daya alam desa"
-  },
-  {
-    "nomor_soal": 85,
-    "pertanyaan": "rencana pembangunan jangka menengah desa dan rencana kerja pemerintah Desa ditetapkan dengan…",
-    "jawaban_benar": "B. Peraturan desa"
-  },
-  {
-    "nomor_soal": 86,
-    "pertanyaan": "masyarakat desa melaporkan hasil pemantauan dan berbagai keluhan terhadap pelaksanaan pembangunan desa kepada…",
-    "jawaban_benar": "C. Pemerintah desa dan BPD"
-  },
-  {
-    "nomor_soal": 87,
-    "pertanyaan": "Pembangunan kawasan pedesaan dilaksanakan dalam upaya mempercepat dan meningkatkan kualitas pelayanan pembangunan dan pemberdayaan masyarakat desa di kawasan perdesaan melalui pendekatan…",
-    "jawaban_benar": "A. Pembangunan partisipatif"
-  },
-  {
-    "nomor_soal": 88,
-    "pertanyaan": "pembangunan kawasan perdesaan yang dilakukan oleh pemerintah pemerintah daerah provinsi pemerintah daerah kabupaten atau kota dan pihak ketiga wajib…",
-    "jawaban_benar": "C. Mengikutsertakan pemerintah desa dan masyarakat desa"
-  },
-  {
-    "nomor_soal": 89,
-    "pertanyaan": "sistem informasi Desa sebagaimana dimaksud dalam pasal 86 meliputi fasilitas berikut kecuali…",
-    "jawaban_benar": "C. Sumber daya alam"
-  },
-  {
-    "nomor_soal": 90,
-    "pertanyaan": "selain untuk pengembangan usaha hasil usaha bumdes dimanfaatkan untuk hal-hal berikut kecuali…",
-    "jawaban_benar": "D. Pembiayaan kunjungan perangkat desa"
-  },
-  {
-    "nomor_soal": 91,
-    "pertanyaan": "Lembaga kemasyarakatan Desa sebagaimana dimaksud dalam pasal 94 Undang-Undang Nomor 6 tahun 2014 merupakan…",
-    "jawaban_benar": "A. Wadah partisipasi masyarakat desa sebagai mitra pemerintah desa"
-  },
-  {
-    "nomor_soal": 92,
-    "pertanyaan": "Berikut ini tugas lembaga kemasyarakatan Desa kecuali…",
-    "jawaban_benar": "B. Mengatur penyelenggaraan pemerintahan desa"
-  },
-  {
-    "nomor_soal": 93,
-    "pertanyaan": "berikut ini yang bukan merupakan pembinaan dan pengawasan yang dilakukan oleh pemerintah daerah kabupaten atau kota terhadap penyelenggaraan pemerintahan desa adalah…",
-    "jawaban_benar": "A. Ikut campur dalam pengelolaan keuangan desa dan pengelolaan aset desa"
-  },
-  {
-    "nomor_soal": 94,
-    "pertanyaan": "pemberdayaan masyarakat desa oleh pemerintah pemerintah daerah provinsi dan pemerintah daerah kabupaten atau kota dilaksanakan dengan hal berikut kecuali…",
-    "jawaban_benar": "C. Pemantauan seluruh kegiatan masyarakat desa"
-  },
-  {
-    "nomor_soal": 95,
-    "pertanyaan": "kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya yang masih hidup harus memiliki wilayah dan paling kurang memenuhi salah satu atau gabungan unsur adanya…",
-    "jawaban_benar": "D. Semua benar"
-  },
-  {
-    "nomor_soal": 96,
-    "pertanyaan": "selain untuk membantu pelaksanaan fungsi penyelenggaraan pemerintahan desa pendayagunaan lembaga kemasyarakatan desa yang ada dalam membantu…",
-    "jawaban_benar": "D. Semua benar"
-  },
-  {
-    "nomor_soal": 97,
-    "pertanyaan": "Kerjasama antar desa dapat meliputi hal berikut yaitu…",
-    "jawaban_benar": "A. Bidang keamanan dan ketertiban"
-  },
-  {
-    "nomor_soal": 98,
-    "pertanyaan": "Kekayaan milik desa yang berupa tanah disertifikatkan atas nama…",
-    "jawaban_benar": "A. Pemerintah desa"
-  },
-  {
-    "nomor_soal": 99,
-    "pertanyaan": "Dalam rangka pengelolaan keuangan Desa kepala desa melimpahkan sebagian kewenangannya kepada…",
-    "jawaban_benar": "A. Perangkat desa yang ditunjuk"
-  },
-  {
-    "nomor_soal": 100,
-    "pertanyaan": "kekayaan milik desa yang telah diambil alih oleh pemerintah daerah kabupaten atau kota dikembalikan kepada Desa kecuali…",
-    "jawaban_benar": "C. Kekayaan yang sudah digunakan untuk fasilitas umum"
+    "id": 1,
+    "question": "Tujuan utama dari badan usaha milik desa ataupun desa adalah…",
+    "options": [
+      "Untuk sebesar-besarnya kesejahteraan rakyat",
+      "untuk sebesar-besarnya kesejahteraan perangkat desa",
+      "untuk sebesar-besarnya kesejahteraan kepala desa",
+      "untuk sebesar-besarnya kesejahteraan BPD"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tujuan utama BUMDes dan Desa secara keseluruhan adalah untuk meningkatkan kesejahteraan masyarakat Desa, sebagaimana diatur dalam Undang-Undang Nomor 6 Tahun 2014 tentang Desa."
+  },
+  {
+    "id": 2,
+    "question": "Pendirian BUMDes disepakati melalui..",
+    "options": [
+      "Keputusan kepala Desa",
+      "musyawarah desa",
+      "rapat perangkat desa",
+      "keputusan BPD"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pendirian BUMDes harus disepakati melalui Musyawarah Desa (Musdes) karena ini adalah hal yang bersifat strategis dan menyangkut kepentingan seluruh masyarakat Desa."
+  },
+  {
+    "id": 3,
+    "question": "Pendirian BUMDes ditetapkan dengan…",
+    "options": [
+      "Peraturan desa",
+      "Keputusan kepala Desa",
+      "keputusan BPD",
+      "keputusan musyawarah desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hasil kesepakatan Musdes mengenai pendirian BUMDes kemudian ditetapkan dengan Peraturan Desa (Perdes)."
+  },
+  {
+    "id": 4,
+    "question": "Hasil usaha BUMDes dimanfaatkan untuk kegiatan berikut ini kecuali…",
+    "options": [
+      "Pengembangan usaha",
+      "pembangunan desa",
+      "pemberdayaan masyarakat",
+      "kesejahteraan perangkat desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pemanfaatan hasil usaha BUMDes adalah untuk pengembangan usaha, pembangunan Desa, pemberdayaan masyarakat, dan bantuan/hibah masyarakat miskin, bukan untuk kesejahteraan pribadi perangkat desa."
+  },
+  {
+    "id": 5,
+    "question": "Berikut ini adalah upaya pemerintah daerah dalam mendorong perkembangan BUMDes kecuali…",
+    "options": [
+      "Memberikan hibah dan atau akses permodalan",
+      "Melakukan pendampingan teknis dan akses ke pasar",
+      "mengarahkan pada produk tertentu yang menguntungkan pemerintah daerah",
+      "Memprioritaskan pada pengelolaan sumber daya alam"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Peran pemerintah daerah adalah memfasilitasi dan mendorong BUMDes, bukan mengarahkan produk untuk keuntungan pemerintah daerah."
+  },
+  {
+    "id": 6,
+    "question": "Penyelenggaraan urusan pemerintahan dan kepentingan masyarakat setempat dalam sistem pemerintahan Negara kesatuan Republik Indonesia adalah definisi dari…",
+    "options": [
+      "Pemerintah desa",
+      "pemerintahan desa",
+      "perangkat desa",
+      "badan permusyawaratan desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Definisi 'Pemerintahan Desa' mencakup fungsi dan proses penyelenggaraan urusan Desa."
+  },
+  {
+    "id": 7,
+    "question": "Kepala desa atau yang disebut dengan nama lain dibantu perangkat desa sebagai unsur penyelenggara pemerintahan desa merupakan definisi dari…",
+    "options": [
+      "Pemerintah Desa",
+      "pemerintahan desa",
+      "perangkat desa",
+      "badan permusyawaratan desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Definisi 'Pemerintah Desa' merujuk pada subjek (pelaku), yaitu Kepala Desa dan Perangkat Desa."
+  },
+  {
+    "id": 8,
+    "question": "Lembaga yang melaksanakan fungsi pemerintahan yang anggotanya merupakan wakil dari penduduk desa berdasarkan keterwakilan wilayah dan ditetapkan secara demokratis merupakan definisi dari…",
+    "options": [
+      "Pemerintah desa",
+      "pemerintahan desa",
+      "perangkat desa",
+      "badan permusyawaratan desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Definisi tersebut merujuk pada Badan Permusyawaratan Desa (BPD), yang berfungsi sebagai legislatif Desa."
+  },
+  {
+    "id": 9,
+    "question": "Peraturan perundang-undangan yang ditetapkan oleh kepala Desa setelah dibahas dan disepakati bersama badan permusyawaratan desa merupakan definisi dari…",
+    "options": [
+      "Peraturan desa",
+      "Ketetapan kepala desa",
+      "Peraturan BPD",
+      "Peraturan musyawarah desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Peraturan yang dibahas dan disepakati bersama BPD dan Kepala Desa adalah Peraturan Desa (Perdes)."
+  },
+  {
+    "id": 10,
+    "question": "Upaya peningkatan kualitas hidup dan kehidupan untuk sebesar-besarnya kesejahteraan masyarakat desa merupakan definisi dari…",
+    "options": [
+      "Pemerintah Desa",
+      "Pemerintahan desa",
+      "Pembangunan desa",
+      "Pemberdayaan masyarakat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ini adalah definisi dari Pembangunan Desa (Pasal 1 Ayat 12 UU Desa)."
+  },
+  {
+    "id": 11,
+    "question": "Syarat pembentukan Desa baru yaitu batas usia desa induk paling sedikit ... tahun",
+    "options": [
+      "5 tahun",
+      "4 tahun",
+      "3 tahun",
+      "2 tahun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sesuai UU Desa Pasal 8 Ayat 2, batas usia Desa induk paling sedikit adalah 5 tahun."
+  },
+  {
+    "id": 12,
+    "question": "Untuk membentuk Desa Baru di wilayah Jawa paling sedikit titik-titik jiwa ...",
+    "options": [
+      "1000",
+      "3000",
+      "5000",
+      "6000"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Syarat jumlah penduduk di Pulau Jawa untuk pembentukan Desa baru adalah paling sedikit 6.000 jiwa."
+  },
+  {
+    "id": 13,
+    "question": "Untuk membentuk Desa Baru di wilayah Sumatera paling sedikit... Jiwa",
+    "options": [
+      "1000",
+      "3000",
+      "5000",
+      "6000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Syarat jumlah penduduk di Pulau Sumatera untuk pembentukan Desa baru adalah paling sedikit 3.000 jiwa."
+  },
+  {
+    "id": 14,
+    "question": "Untuk membentuk Desa Baru wilayah Papua paling sedikit... Jiwa",
+    "options": [
+      "1000",
+      "2000",
+      "500",
+      "600"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Syarat jumlah penduduk di wilayah Papua (termasuk wilayah kepulauan dan pulau kecil terluar) adalah paling sedikit 500 jiwa."
+  },
+  {
+    "id": 15,
+    "question": "BPD memberitahukan kepada kepala desa mengenai akan berakhirnya masa jabatan kepala desa secara tertulis... Bulan sebelum masa jabatannya berakhir",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "BPD wajib memberitahukan kepada Kepala Desa paling sedikit 6 (enam) bulan sebelum masa jabatannya berakhir (Pasal 32 Ayat 3 UU Desa)."
+  },
+  {
+    "id": 16,
+    "question": "Pembentukan panitia pemilihan kepala desa dilakukan oleh...",
+    "options": [
+      "BPD",
+      "LKMD",
+      "Perangkat desa",
+      "Kepala desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Panitia pemilihan Kepala Desa dibentuk oleh BPD (Pasal 32 Ayat 5 UU Desa)."
+  },
+  {
+    "id": 17,
+    "question": "Panitia pemilihan kepala desa terdiri atas unsur berikut ini kecuali…",
+    "options": [
+      "Perangkat desa",
+      "BPD",
+      "Lembaga kemasyarakatan",
+      "Tokoh masyarakat desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anggota BPD tidak boleh menjadi anggota panitia pemilihan karena BPD adalah yang membentuk dan mengawasi panitia tersebut."
+  },
+  {
+    "id": 18,
+    "question": "Salah satu syarat calon kepala desa harus terdaftar sebagai penduduk dan bertempat tinggal di desa tersebut paling kurang...tahun",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Syarat calon Kepala Desa adalah terdaftar sebagai penduduk dan bertempat tinggal di Desa tersebut paling kurang 1 (satu) tahun sebelum pendaftaran (Pasal 33 huruf g UU Desa)."
+  },
+  {
+    "id": 19,
+    "question": "Biaya pemilihan kepala desa dibebankan pada...",
+    "options": [
+      "Calon kepala desa",
+      "APBDes",
+      "APBD kabupaten atau kota",
+      "Swadaya"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Biaya pemilihan Kepala Desa dibebankan kepada Anggaran Pendapatan dan Belanja Daerah (APBD) kabupaten/kota."
+  },
+  {
+    "id": 20,
+    "question": "Calon kepala Desa terpilih dilantik oleh bupati atau walikota atau pejabat yang ditunjuk paling lama... Hari setelah penerbitan keputusan Bupati atau walikota.",
+    "options": [
+      "20 hari",
+      "30 hari",
+      "15 hari",
+      "10 hari"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pelantikan dilakukan paling lama 30 (tiga puluh) hari setelah penerbitan keputusan Bupati/Wali Kota (Pasal 40 Ayat 4 UU Desa)."
+  },
+  {
+    "id": 21,
+    "question": "Berikut ini merupakan tujuan dari pengaturan Desa kecuali…",
+    "options": [
+      "Melestarikan dan memajukan adat tradisi dan budaya masyarakat desa",
+      "Membentuk pemerintahan desa yang profesional efisien efektif terbuka dan bertanggung jawab",
+      "Meningkatkan pelayanan publik bagi warga masyarakat desa guna mempercepat perwujudan sejahteraan umum",
+      "Menjadikan pemerintah desa untuk meningkatkan kekayaan desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tujuan pengaturan Desa adalah untuk kesejahteraan dan tata kelola yang baik, bukan semata-mata menjadikan pemerintah desa fokus meningkatkan kekayaan desa."
+  },
+  {
+    "id": 22,
+    "question": "Proses pengambilan keputusan yang menyangkut kepentingan masyarakat Desa melalui diskusi dengan berbagai pihak yang berkepentingan merupakan asas …",
+    "options": [
+      "Demokrasi",
+      "Kekeluargaan",
+      "Musyawarah",
+      "Kebersamaan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Definisi ini merujuk pada asas Musyawarah (Pasal 2 UU Desa dan penjelasannya)."
+  },
+  {
+    "id": 23,
+    "question": "Pengaturan Desa berasaskan…",
+    "options": [
+      "Rekognisi",
+      "Subsidiaritas",
+      "Keberagaman",
+      "Semua benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pengaturan Desa berasaskan antara lain Rekognisi, Subsidiaritas, Keberagaman, Partisipatif, Kegotongroyongan, Kekeluargaan, Musyawarah, Demokrasi, Kemandirian, Kesetaraan, Keadilan, dan Keberlanjutan."
+  },
+  {
+    "id": 24,
+    "question": "Salah satu asas pengaturan Desa yaitu adanya pengakuan terhadap hak asal usul atau disebut dengan asas…",
+    "options": [
+      "Rekognisi",
+      "Subsidiaritas",
+      "Keberagaman",
+      "Kebersamaan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Asas Rekognisi adalah pengakuan dan penghormatan terhadap hak asal usul Desa."
+  },
+  {
+    "id": 25,
+    "question": "Penetapan kewenangan berskala lokal dan pengambilan keputusan secara lokal untuk kepentingan masyarakat desa merupakan asas …",
+    "options": [
+      "Rekognisi",
+      "Subsidiaritas",
+      "Keberagaman",
+      "Kebersamaan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Asas Subsidiaritas adalah penetapan kewenangan berskala lokal dan pengambilan keputusan secara lokal untuk kepentingan masyarakat Desa."
+  },
+  {
+    "id": 26,
+    "question": "Semangat untuk berperan aktif dan bekerja sama dengan prinsip saling menghargai antara kelembagaan di tingkat desa dan unsur masyarakat desa dalam membangun desa merupakan asas…",
+    "options": [
+      "Kebersamaan",
+      "Gotong royong",
+      "Kekeluargaan",
+      "Demokrasi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Definisi ini merujuk pada asas Kebersamaan."
+  },
+  {
+    "id": 27,
+    "question": "Suatu proses yang dilakukan oleh pemerintah Desa dan masyarakat desa untuk melakukan suatu kegiatan dalam rangka memenuhi kebutuhannya dengan kemampuan sendiri merupakan asas…",
+    "options": [
+      "Kegotongroyongan",
+      "Kekeluargaan",
+      "Musyawarah",
+      "Kemandirian"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Definisi ini merujuk pada asas Kemandirian."
+  },
+  {
+    "id": 28,
+    "question": "Semangat untuk berperan aktif dan bekerja sama dengan prinsip saling menghargai antara kelembagaan di tingkat desa dan unsur masyarakat desa dalam membangun desa merupakan asas…",
+    "options": [
+      "Kebersamaan",
+      "Kegotongroyongan",
+      "Kekeluargaan",
+      "Demokrasi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Definisi ini merujuk pada asas Kebersamaan (pertanyaan sama dengan nomor 26)."
+  },
+  {
+    "id": 29,
+    "question": "Kebiasaan saling tolong-menolong untuk membangun desa merupakan asas…",
+    "options": [
+      "Kebersamaan",
+      "Kegotongroyongan",
+      "Kekeluargaan",
+      "Demokrasi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Definisi ini merujuk pada asas Kegotongroyongan."
+  },
+  {
+    "id": 30,
+    "question": "Kebiasaan warga masyarakat desa sebagai bagian dari satu kesatuan keluarga besar masyarakat desa merupakan asas…",
+    "options": [
+      "Kebersamaan",
+      "Kegotongroyongan",
+      "Kekeluargaan",
+      "Demokrasi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Definisi ini merujuk pada asas Kekeluargaan."
+  },
+  {
+    "id": 31,
+    "question": "Kawasan yang mempunyai kegiatan utama pertanian, termasuk pengelolaan sumber daya alam dengan susunan fungsi kawasan sebagai tempat pemukiman pedesaan, pelayanan jasa pemerintahan, pelayanan sosial, dan kegiatan ekonomi adalah…",
+    "options": [
+      "kawasan pertanian terpadu",
+      "kawasan masyarakat desa",
+      "kawasan pemerintahan desa",
+      "kawasan perdesaan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ini adalah definisi resmi dari Kawasan Perdesaan (Pasal 1 Ayat 17 UU Desa)."
+  },
+  {
+    "id": 32,
+    "question": "Pengaturan keuangan desa diselenggarakan dengan ruang lingkup tersebut dibawah ini kecuali…",
+    "options": [
+      "Keuangan Desa",
+      "pendapatan Desa",
+      "perhitungan penerimaan desa",
+      "APBDes"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ruang lingkup keuangan Desa meliputi Keuangan Desa, Pendapatan Desa, Belanja Desa, Pembiayaan Desa, dan Anggaran Pendapatan dan Belanja Desa (APBDes)."
+  },
+  {
+    "id": 33,
+    "question": "Dana desa adalah dana yang bersumber dari",
+    "options": [
+      "anggaran kecamatan",
+      "anggaran kabupaten",
+      "anggaran provinsi",
+      "anggaran pendapatan dan belanja negara"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dana Desa adalah dana yang bersumber dari Anggaran Pendapatan dan Belanja Negara (APBN)."
+  },
+  {
+    "id": 34,
+    "question": "Anggota badan permusyawaratan desa berhak…",
+    "options": [
+      "Mengajukan usulan rancangan peraturan desa",
+      "Menyampaikan usul dan atau pendapat",
+      "Tunjangan dari anggaran pendapatan dan belanja desa",
+      "Semua benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Hak-hak Anggota BPD meliputi semua pilihan yang disebutkan."
+  },
+  {
+    "id": 35,
+    "question": "Menyerap, menampung, menghimpun dan menindaklanjuti aspirasi masyarakat desa adalah kewajiban dari…",
+    "options": [
+      "Perangkat desa",
+      "BPD",
+      "LKMD",
+      "Kepala desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kewajiban utama BPD sebagai wakil masyarakat adalah menyerap dan menindaklanjuti aspirasi."
+  },
+  {
+    "id": 36,
+    "question": "Yang bukan larangan dari anggota BPD adalah…",
+    "options": [
+      "Menjadi pelaksana proyek Desa",
+      "menjadi pengurus partai politik",
+      "bekerja di sebuah perusahaan",
+      "menjadi anggota dan atau pengurus organisasi terlarang"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bekerja di perusahaan swasta pada umumnya tidak dilarang, asalkan tidak menimbulkan konflik kepentingan dan tetap menjalankan tugas sebagai anggota BPD. Larangan umumnya terkait rangkap jabatan pemerintahan/politik."
+  },
+  {
+    "id": 37,
+    "question": "Bagian hasil pajak Daerah dan retribusi Daerah kabupaten atau kota merupakan salah satu sumber pendapatan desa yang besarnya…",
+    "options": [
+      "10%",
+      "15%",
+      "5%",
+      "20%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bagian dari hasil pajak daerah dan retribusi daerah kabupaten/kota paling sedikit 10% dialokasikan untuk Desa."
+  },
+  {
+    "id": 38,
+    "question": "Dalam UU nomor 6 Tahun 2014 disebutkan bahwa Desa berkewajiban…",
+    "options": [
+      "Meningkatkan kualitas kehidupan masyarakat desa",
+      "Mengembangkan kehidupan demokrasi",
+      "Mengembangkan pemberdayaan masyarakat desa",
+      "Semua benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kewajiban Desa mencakup peningkatan kualitas hidup, pengembangan demokrasi, dan pemberdayaan masyarakat."
+  },
+  {
+    "id": 39,
+    "question": "Berikut adalah yang bukan merupakan tujuan penataan Desa yaitu…",
+    "options": [
+      "Mempercepat peningkatan kesejahteraan masyarakat desa",
+      "Mempercepat peningkatan kualitas pelayanan publik",
+      "Meningkatkan kualitas tata kelola pemerintahan desa",
+      "Meningkatkan kesenjangan desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tujuan penataan Desa adalah untuk meningkatkan kesejahteraan, pelayanan, tata kelola, dan daya saing, sehingga justru **mengatasi** kesenjangan."
+  },
+  {
+    "id": 40,
+    "question": "Masa jabatan kepala desa adalah…",
+    "options": [
+      "6 tahun dan dapat menjabat paling lama tiga kali",
+      "5 tahun dan dapat menjabat paling lama dua kali",
+      "4 tahun dan dapat menjabat berulang kali",
+      "6 tahun dan dapat menjabat hanya satu kali"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Masa jabatan Kepala Desa adalah 6 tahun dan dapat menjabat paling banyak 3 (tiga) kali masa jabatan, baik berturut-turut maupun tidak berturut-turut."
+  },
+  {
+    "id": 41,
+    "question": "Yang bukan merupakan asas peraturan desa adalah",
+    "options": [
+      "Keberagaman",
+      "Kemandirian",
+      "Kesenjangan",
+      "Kesetaraan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kesenjangan bukan merupakan asas, karena asas bertujuan menciptakan keseimbangan dan keadilan."
+  },
+  {
+    "id": 42,
+    "question": "Berikut yang bukan merupakan tujuan dari pengaturan desa adalah..",
+    "options": [
+      "Melestarikan dan memajukan adat tradisi dan budaya masyarakat desa",
+      "Memajukan perekonomian masyarakat desa serta mengatasi kesenjangan pembangunan nasional",
+      "Memperkuat masyarakat desa sebagai subjek pembangunan",
+      "Menggalang dana desa untuk pembuatan fasilitas umum"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Tujuan pengaturan Desa bersifat strategis dan luas, bukan hanya terkait teknis penggalangan dana untuk fasilitas umum."
+  },
+  {
+    "id": 43,
+    "question": "Berdasarkan pasal 6 undang-undang Desa nomor 6 Tahun 2014 desa terdiri atas…",
+    "options": [
+      "Desa maju dan desa tertinggal",
+      "Desa dan kelurahan",
+      "Desa mandiri dan desa swadaya",
+      "Desa dan desa adat"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pasal 6 UU Desa menyebutkan Desa terdiri dari Desa dan Desa Adat."
+  },
+  {
+    "id": 44,
+    "question": "Yang dimaksud dengan pembangunan desa adalah…",
+    "options": [
+      "Upaya peningkatan kualitas hidup dan kehidupan untuk sebesar-besarnya kesejahteraan masyarakat desa",
+      "Upaya pemerataan hasil kekayaan desa untuk kemajuan desa",
+      "Upaya pembangunan sarana dan prasarana masing-masing Desa",
+      "Upaya peningkatan aset desa untuk memajukan kesejahteraan desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ini adalah definisi resmi Pembangunan Desa (Pasal 1 Ayat 12 UU Desa)."
+  },
+  {
+    "id": 45,
+    "question": "Berikut tujuan dari penataan Desa kecuali…",
+    "options": [
+      "Mempercepat peningkatan kualitas pelayanan publik",
+      "Meningkatkan kualitas tata kelola pemerintahan desa",
+      "Melestarikan dan memajukan adat tradisi dan budaya masyarakat desa",
+      "Meningkatkan daya saing desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Melestarikan adat dan budaya adalah salah satu tujuan **pengaturan** Desa (Pasal 3 UU Desa), bukan tujuan dari **penataan** Desa (Pasal 4 UU Desa) yang lebih berfokus pada efektivitas dan efisiensi wilayah/administrasi."
+  },
+  {
+    "id": 46,
+    "question": "Pembentukan Desa ditetapkan dengan peraturan daerah kabupaten atau kota dengan mempertimbangkan…",
+    "options": [
+      "Prakarsa masyarakat desa asal usul dan adat istiadat",
+      "Kondisi sosial budaya masyarakat desa",
+      "Kemampuan dan potensi desa",
+      "Semua benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Semua faktor tersebut merupakan pertimbangan dalam penetapan Pembentukan Desa (Pasal 8 Ayat 5 UU Desa)."
+  },
+  {
+    "id": 47,
+    "question": "Dalam BUMDes seluruh atau sebagian modalnya dimiliki oleh…",
+    "options": [
+      "Kepala desa",
+      "Desa",
+      "Perangkat desa",
+      "Kepala desa perangkat desa dan BPD"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modal BUMDes dimiliki oleh **Desa**, yang merupakan kesatuan masyarakat hukum."
+  },
+  {
+    "id": 48,
+    "question": "Barang milik desa yang berasal dari kekayaan asli desa, dibeli atau diperoleh atas beban anggaran pendapatan dan belanja desa atau perolehan hak lainnya yang sah merupakan definisi dari…",
+    "options": [
+      "Model desa",
+      "Aset desa",
+      "Sumber pendapatan desa",
+      "Bumdes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ini adalah definisi resmi dari Aset Desa (Pasal 1 Ayat 21 UU Desa)."
+  },
+  {
+    "id": 49,
+    "question": "Memberikan pengakuan dan penghormatan atas desa ya sudah ada dengan keberagamannya sebelum dan sesudah terbentuknya Negara kesatuan Republik Indonesia, merupakan salah satu tujuan dari…",
+    "options": [
+      "Penataan desa",
+      "Pengakuan desa",
+      "Pengaturan desa",
+      "Pembentukan desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ini adalah poin pertama dari Tujuan Pengaturan Desa (Pasal 3 UU Desa)."
+  },
+  {
+    "id": 50,
+    "question": "Berikut ini merupakan tujuan pengaturan Desa dalam membentuk pemerintahan desa kecuali…",
+    "options": [
+      "Membentuk pemerintahan desa yang profesional",
+      "Membentuk pemerintahan desa yang berkuasa",
+      "Membentuk pemerintahan desa yang efisien dan efektif",
+      "Membentuk pemerintahan desa yang terbuka dan bertanggung jawab"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tujuan pengaturan Desa adalah membentuk pemerintahan yang profesional, efisien, efektif, terbuka, dan bertanggung jawab. Kata 'berkuasa' tidak sesuai dengan prinsip tata kelola yang baik."
+  },
+  {
+    "id": 51,
+    "question": "Penataan Desa meliputi 5 hal yaitu…",
+    "options": [
+      "Pemerintahan, penamaan, pengaturan, administrasi, regulasi",
+      "Penataan wilayah, pembagian wilayah, penamaan, pemerintahan, administrasi",
+      "Pembentukan, penghapusan, penggabungan perubahan status, penetapan desa",
+      "Pembentukan, penggabungan, penetapan wilayah, pemerintahan, administrasi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Penataan Desa meliputi Pembentukan, Penghapusan, Penggabungan, Perubahan Status Desa menjadi Kelurahan, dan Penetapan Desa."
+  },
+  {
+    "id": 52,
+    "question": "Tindakan pengadaan Desa Baru di luar desa yang ada merupakan maksud dari…",
+    "options": [
+      "Pembentukan Desa",
+      "penataan Desa",
+      "pemisahan Desa",
+      "pengaturan desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pengadaan Desa baru, termasuk pemekaran, disebut Pembentukan Desa."
+  },
+  {
+    "id": 53,
+    "question": "Salah satu syarat pembentukan desa adalah batas usia desa induk yaitu…",
+    "options": [
+      "Paling sedikit 10 tahun terhitung sejak pembentukan",
+      "Paling sedikit 8 tahun terhitung sejak pembentukan",
+      "Paling sedikit 7 tahun terhitung sejak pembentukan",
+      "Paling sedikit 5 tahun terhitung sejak pembentukan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Batas usia Desa induk untuk pemekaran adalah paling sedikit 5 tahun (Pasal 8 Ayat 2 UU Desa)."
+  },
+  {
+    "id": 54,
+    "question": "Salah satu syarat pembentukan desa adalah memiliki potensi yang meliputi hal berikut kecuali…",
+    "options": [
+      "History Desa",
+      "Sumber daya alam",
+      "Sumber daya manusia",
+      "Sumber daya ekonomi pendukung"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Potensi Desa meliputi sumber daya alam, sumber daya manusia, dan sumber daya ekonomi pendukung."
+  },
+  {
+    "id": 55,
+    "question": "Dalam wilayah Desa dibentuk Dusun atau yang disebut dengan nama lain yang disesuaikan dengan hal berikut kecuali…",
+    "options": [
+      "Asal usul",
+      "Adat istiadat",
+      "Batas wilayah",
+      "Nilai sosial budaya masyarakat desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pembentukan Dusun disesuaikan dengan asal usul, adat istiadat, dan nilai sosial budaya, bukan batas wilayah."
+  },
+  {
+    "id": 56,
+    "question": "Pembentukan Desa dilakukan melalui…",
+    "options": [
+      "Desa induk",
+      "Desa persiapan",
+      "Desa binaan",
+      "Desa pemekaran"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pembentukan Desa baru dilakukan melalui Desa persiapan, yang merupakan bagian dari wilayah Desa induk (Pasal 9 Ayat 1 UU Desa)."
+  },
+  {
+    "id": 57,
+    "question": "Desa persiapan dapat ditingkatkan statusnya menjadi Desa dalam jangka waktu…",
+    "options": [
+      "1 sampai 3 tahun",
+      "2 sampai 3 tahun",
+      "3 sampai 5 tahun",
+      "4 tahun"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Desa persiapan dapat ditingkatkan menjadi Desa dalam jangka waktu paling lama 3 (tiga) tahun (Pasal 9 Ayat 2 UU Desa)."
+  },
+  {
+    "id": 58,
+    "question": "Desa dapat berubah status menjadi kelurahan berdasarkan prakarsa pemerintah desa dan badan permusyawaratan desa melalui…",
+    "options": [
+      "Musyawarah desa",
+      "Rapat koordinasi dengan pemerintah daerah",
+      "Penetapan pemerintah daerah",
+      "Musyawarah bersama kepala desa dan BPD"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Perubahan status Desa menjadi Kelurahan berdasarkan prakarsa Pemdes dan BPD melalui Musyawarah Desa."
+  },
+  {
+    "id": 59,
+    "question": "Seluruh barang milik desa dan sumber pendapatan desa yang berubah menjadi kelurahan menjadi kekayaan atau aset pemerintah daerah kabupaten atau kota yang digunakan untuk meningkatkan kesejahteraan masyarakat di kelurahan tersebut dan pendanaan kelurahan dibebankan pada …",
+    "options": [
+      "Dana desa",
+      "Anggaran penerimaan dan belanja desa",
+      "Anggaran pendapatan dan belanja daerah kabupaten atau kota",
+      "Swadaya desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pendanaan Kelurahan dibebankan pada Anggaran Pendapatan dan Belanja Daerah (APBD) kabupaten/kota."
+  },
+  {
+    "id": 60,
+    "question": "Pendanaan perubahan status kelurahan menjadi Desa dibebankan pada…",
+    "options": [
+      "Dana desa",
+      "APBDes",
+      "Anggaran pendapatan belanja daerah kabupaten atau kota",
+      "Swadaya desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pendanaan perubahan status dari Kelurahan menjadi Desa dibebankan pada APBD kabupaten/kota."
+  },
+  {
+    "id": 61,
+    "question": "Pembentukan, penghapusan, penggabungan dan atau perubahan status Desa ditetapkan dalam…",
+    "options": [
+      "Peraturan desa",
+      "Peraturan BPD",
+      "Peraturan Bupati",
+      "Peraturan daerah"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Penetapan penataan Desa dilakukan dengan Peraturan Daerah (Perda) kabupaten/kota."
+  },
+  {
+    "id": 62,
+    "question": "Gubernur melakukan evaluasi rancangan peraturan daerah tentang pembentukan penghapusan penggabungan dan atau perubahan status Desa berdasarkan atas beberapa hal berikut, kecuali…",
+    "options": [
+      "Kepentingan investasi",
+      "Urgensi",
+      "Kepentingan nasional dan kepentingan daerah",
+      "Kepentingan masyarakat desa dan atau peraturan perundang-undangan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Evaluasi oleh Gubernur berdasarkan pada urgensi, kepentingan nasional dan daerah, serta kepentingan masyarakat desa/peraturan perundang-undangan. Kepentingan investasi adalah hal yang lebih spesifik."
+  },
+  {
+    "id": 63,
+    "question": "Gubernur menyatakan persetujuan terhadap rancangan peraturan daerah tentang pembentukan, penghapusan, penggabungan dan atau perubahan status Desa paling lama…",
+    "options": [
+      "10 hari setelah menerima rancangan peraturan daerah",
+      "15 hari setelah menerima rancangan peraturan daerah",
+      "20 hari setelah menerima rancangan peraturan daerah",
+      "30 hari setelah menerima rancangan peraturan daerah"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gubernur wajib menyatakan persetujuan atau penolakan paling lama 20 (dua puluh) hari setelah menerima rancangan Perda (Pasal 17 Ayat 4 UU Desa)."
+  },
+  {
+    "id": 64,
+    "question": "Penyempurnaan dan penetapan menjadi peraturan daerah oleh pemerintah daerah kabupaten atau kota terhadap persetujuan gubernur atas rancangan peraturan daerah dilakukan paling lama…",
+    "options": [
+      "10 hari",
+      "15 hari",
+      "20 hari",
+      "30 hari"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Penyempurnaan dan penetapan Perda dilakukan paling lama 15 (lima belas) hari setelah persetujuan Gubernur diterima (Pasal 17 Ayat 5 UU Desa)."
+  },
+  {
+    "id": 65,
+    "question": "Peningkatan status Desa persiapan menjadi desa dilaksanakan berdasarkan…",
+    "options": [
+      "Hasil evaluasi",
+      "Jajak pendapat",
+      "Rekomendasi gubernur",
+      "Suara terbanyak"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Peningkatan status Desa persiapan menjadi Desa didasarkan pada hasil evaluasi oleh Bupati/Walikota."
+  },
+  {
+    "id": 66,
+    "question": "Berikut merupakan bunyi dari pasal pasal UU desa no 6 tahun 2014 kecuali…",
+    "options": [
+      "Desa persiapan merupakan bagian dari wilayah Desa induk",
+      "pemerintah dapat memprakarsai pembentukan desa di kawasan yang bersifat khusus dan strategis bagi kepentingan nasional",
+      "Desa dapat dihapus karena bencana alam dan atau kepentingan program nasional yang strategis",
+      "Batas usia desa induk paling sedikit 4 tahun terhitung sejak pembentukan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Batas usia Desa induk yang benar adalah paling sedikit 5 tahun."
+  },
+  {
+    "id": 67,
+    "question": "Kewenangan Desa meliputi hal-hal berikut yaitu…",
+    "options": [
+      "Kewenangan berdasarkan hak asal usul",
+      "Kewenangan lokal berskala desa",
+      "Kewenangan yang ditugaskan oleh pemerintah, pemerintah daerah provinsi, atau pemerintah daerah kabupaten atau kota",
+      "Semua jawaban benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Kewenangan Desa meliputi ketiga jenis kewenangan tersebut (Pasal 19 UU Desa)."
+  },
+  {
+    "id": 68,
+    "question": "Selain penyelenggaraan pemerintahan desa penugasan dari pemerintah dan atau pemerintah daerah kepada Desa meliputi…",
+    "options": [
+      "Pelaksanaan pembangunan desa",
+      "Pembinaan kemasyarakatan desa",
+      "Pemberdayaan masyarakat desa",
+      "Semua jawaban benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Penugasan kepada Desa mencakup keempat bidang tersebut."
+  },
+  {
+    "id": 69,
+    "question": "Pemerintahan desa diselenggarakan oleh…",
+    "options": [
+      "Pemerintah daerah",
+      "Pemerintah desa",
+      "Pemerintah kabupaten atau kota",
+      "Pemerintah pusat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pemerintahan Desa diselenggarakan oleh Pemerintah Desa (Kepala Desa dan Perangkat Desa)."
+  },
+  {
+    "id": 70,
+    "question": "Yang bukan merupakan asas penyelenggaraan pemerintahan desa adalah…",
+    "options": [
+      "Kepastian hukum",
+      "Tertib penyelenggaraan pemerintahan",
+      "Tertib kepentingan umum",
+      "Kesukuan"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Asas penyelenggaraan pemerintahan Desa tidak mencantumkan Kesukuan, melainkan asas umum seperti Kepastian Hukum, Akuntabilitas, Tertib Penyelenggaraan Pemerintahan, dst."
+  },
+  {
+    "id": 71,
+    "question": "Selain penghasilan tetap kepala desa dan perangkat desa menerima tunjangan yang bersumber dari…",
+    "options": [
+      "Anggaran pendapatan dan belanja desa",
+      "Anggaran pendapatan dan belanja daerah",
+      "Anggaran pendapatan dan belanja kabupaten atau kota",
+      "Dana desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tunjangan Kepala Desa dan Perangkat Desa bersumber dari Anggaran Pendapatan dan Belanja Desa (APBDes)."
+  },
+  {
+    "id": 72,
+    "question": "Menurut pasal 67 ayat 1 Desa berhak…",
+    "options": [
+      "Mengatur dan mengurus kepentingan masyarakat berdasarkan hak asal usul adat istiadat dan nilai sosial budaya masyarakat desa",
+      "Menetapkan dan mengelola kelembagaan desa",
+      "Mendapatkan sumber pendapatan",
+      "Semua jawaban benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ketiga hal tersebut merupakan hak Desa sesuai Pasal 67 Ayat 1 UU Desa."
+  },
+  {
+    "id": 73,
+    "question": "Salah satu hak masyarakat desa adalah masyarakat desa berhak memilih, dipilih dan atau ditetapkan menjadi…",
+    "options": [
+      "Kepala desa",
+      "Perangkat desa",
+      "Anggota badan permusyawaratan desa",
+      "Anggota lembaga kemasyarakatan desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Masyarakat Desa berhak memilih, dipilih, dan/atau ditetapkan menjadi Kepala Desa atau Anggota BPD."
+  },
+  {
+    "id": 74,
+    "question": "Mendorong terciptanya situasi yang aman nyaman dan tentram di desa merupakan…",
+    "options": [
+      "Hak masyarakat desa",
+      "Kewajiban masyarakat desa",
+      "Hak Desa",
+      "Kewajiban desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hal ini merupakan salah satu Kewajiban Masyarakat Desa (Pasal 68 Ayat 2 UU Desa)."
+  },
+  {
+    "id": 75,
+    "question": "Jenis peraturan di desa terdiri atas peraturan berikut kecuali…",
+    "options": [
+      "Peraturan Desa",
+      "Peraturan BPD",
+      "Peraturan bersama kepala desa",
+      "Peraturan kepala Desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jenis Peraturan di Desa adalah Peraturan Desa, Peraturan Kepala Desa, dan Peraturan Bersama Kepala Desa. BPD menetapkan Keputusan BPD, bukan Peraturan BPD."
+  },
+  {
+    "id": 76,
+    "question": "Peraturan bersama kepala desa merupakan peraturan yang ditetapkan oleh…",
+    "options": [
+      "Kepala desa dari 2 desa atau lebih yang melakukan kerjasama antar desa",
+      "Kepala desa dan anggota BPD",
+      "Kepala desa dan perangkat desa",
+      "Kepala desa perangkat desa dan BPD"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Peraturan Bersama Kepala Desa ditetapkan oleh dua Desa atau lebih yang melakukan Kerja Sama Antar Desa."
+  },
+  {
+    "id": 77,
+    "question": "Semua hak dan kewajiban desa yang dapat dinilai dengan uang serta segala sesuatu berupa uang dan barang yang berhubungan dengan pelaksanaan hak dan kewajiban desa adalah pengertian dari…",
+    "options": [
+      "Aset desa",
+      "Kekayaan desa",
+      "Keuangan desa",
+      "Modal desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ini adalah definisi dari Keuangan Desa (Pasal 71 Ayat 1 UU Desa)."
+  },
+  {
+    "id": 78,
+    "question": "Pemegang kekuasaan pengelolaan keuangan desa adalah…",
+    "options": [
+      "Masyarakat desa",
+      "Kepala desa",
+      "Kepala desa dan perangkat desa",
+      "Kepala desa perangkat desa dan BPD"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kepala Desa adalah Pemegang Kekuasaan Pengelolaan Keuangan Desa (Pasal 71 Ayat 2 UU Desa)."
+  },
+  {
+    "id": 79,
+    "question": "Pengelolaan kekayaan milik desa dilakukan untuk hal berikut kecuali…",
+    "options": [
+      "Meningkatkan kesejahteraan pemerintah desa",
+      "Meningkatkan kesejahteraan masyarakat desa",
+      "Meningkatkan taraf hidup masyarakat desa",
+      "Meningkatkan pendapatan desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pengelolaan kekayaan milik Desa bertujuan untuk meningkatkan kesejahteraan masyarakat, bukan kesejahteraan Pemerintah Desa."
+  },
+  {
+    "id": 80,
+    "question": "Pembangunan desa meliputi tahap berikut yaitu…",
+    "options": [
+      "Perencanaan pembangunan dan evaluasi",
+      "Perencanaan pelaksanaan dan pengawasan",
+      "Perencanaan peninjauan dan pelaksanaan",
+      "Pemetaan perencanaan pelaksanaan"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tahap Pembangunan Desa meliputi Perencanaan, Pelaksanaan, dan Pengawasan."
+  },
+  {
+    "id": 81,
+    "question": "Rencana pembangunan tahunan desa disebut juga dengan…",
+    "options": [
+      "Rencana kerja pemerintah Desa",
+      "Rencana pembangunan jangka menengah desa",
+      "Rencana pembangunan desa",
+      "Semua jawaban benar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rencana Pembangunan Tahunan Desa disebut Rencana Kerja Pemerintah Desa (RKPDes)."
+  },
+  {
+    "id": 82,
+    "question": "hal yang bersifat strategis dalam penyelenggaraan pemerintahan desa meliputi…",
+    "options": [
+      "Penataan Desa perencanaan Desa kerjasama desa",
+      "Rencana investasi yang masuk ke desa pembentukan bumdes",
+      "Penambahan dan pelepasan aset Desa kejadian luar biasa",
+      "Semua jawaban benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Semua hal yang disebutkan adalah contoh hal-hal strategis yang memerlukan Musyawarah Desa (Musdes)."
+  },
+  {
+    "id": 83,
+    "question": "Rencana kerja pemerintah desa merupakan penjabaran dari…",
+    "options": [
+      "RPJM desa untuk jangka waktu 5 tahun",
+      "RPJM desa untuk jangka waktu 3 tahun",
+      "RPJM desa untuk jangka waktu 2 tahun",
+      "RPJM desa untuk jangka waktu 1 tahun"
+    ],
+    "correctAnswer": 3,
+    "explanation": "RKPDes adalah penjabaran tahunan (1 tahun) dari RPJMDes (6 tahun)."
+  },
+  {
+    "id": 84,
+    "question": "pelaksanaan pembangunan desa dilakukan dengan memanfaatkan…",
+    "options": [
+      "Tenaga dan kerjasama masyarakat desa",
+      "Dana desa dan sumber daya alam desa",
+      "Kearifan lokal dan sumber daya alam desa",
+      "Dana desa dan kerjasama masyarakat desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pelaksanaan pembangunan Desa wajib mendayagunakan kearifan lokal, sumber daya alam dan sumber daya manusia (Pasal 83 Ayat 2 UU Desa)."
+  },
+  {
+    "id": 85,
+    "question": "rencana pembangunan jangka menengah desa dan rencana kerja pemerintah Desa ditetapkan dengan…",
+    "options": [
+      "Peraturan daerah",
+      "Peraturan desa",
+      "Peraturan kepala Desa",
+      "Peraturan bersama kepala desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RPJMDes dan RKPDes ditetapkan dengan Peraturan Desa (Perdes)."
+  },
+  {
+    "id": 86,
+    "question": "masyarakat desa melaporkan hasil pemantauan dan berbagai keluhan terhadap pelaksanaan pembangunan desa kepada…",
+    "options": [
+      "Pemerintah desa",
+      "Badan permusyawaratan desa",
+      "Pemerintah desa dan BPD",
+      "Tokoh masyarakat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Masyarakat Desa berhak melaporkan hasil pemantauan dan keluhan kepada Pemerintah Desa dan BPD."
+  },
+  {
+    "id": 87,
+    "question": "Pembangunan kawasan pedesaan dilaksanakan dalam upaya mempercepat dan meningkatkan kualitas pelayanan pembangunan dan pemberdayaan masyarakat desa di kawasan perdesaan melalui pendekatan…",
+    "options": [
+      "Pembangunan partisipatif",
+      "Pembangunan aspiratif",
+      "Pembangunan solutif",
+      "Pembangunan kreatif"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pembangunan kawasan perdesaan dilakukan melalui pendekatan pembangunan partisipatif (Pasal 84 Ayat 3 UU Desa)."
+  },
+  {
+    "id": 88,
+    "question": "pembangunan kawasan perdesaan yang dilakukan oleh pemerintah pemerintah daerah provinsi pemerintah daerah kabupaten atau kota dan pihak ketiga wajib…",
+    "options": [
+      "Mendayagunakan potensi sumber daya alam",
+      "Mendayagunakan potensi sumber daya manusia",
+      "Mengikutsertakan pemerintah desa dan masyarakat desa",
+      "Semua jawaban benar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mereka wajib mengikutsertakan Pemerintah Desa dan masyarakat Desa (Pasal 85 Ayat 2 UU Desa)."
+  },
+  {
+    "id": 89,
+    "question": "sistem informasi Desa sebagaimana dimaksud dalam pasal 86 meliputi fasilitas berikut kecuali…",
+    "options": [
+      "Perangkat keras dan perangkat lunak",
+      "Jaringan",
+      "Sumber daya alam",
+      "Sumber daya manusia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sistem informasi Desa meliputi perangkat keras, perangkat lunak, jaringan, dan sumber daya manusia."
+  },
+  {
+    "id": 90,
+    "question": "selain untuk pengembangan usaha hasil usaha bumdes dimanfaatkan untuk hal-hal berikut kecuali…",
+    "options": [
+      "Pembangunan desa",
+      "Pemberdayaan masyarakat desa",
+      "pemberian bantuan untuk masyarakat miskin melalui hibah bantuan sosial dan kegiatan dana bergulir yang ditetapkan dalam apbdes",
+      "Pembiayaan kunjungan perangkat desa"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pemanfaatan hasil BUMDes adalah untuk kepentingan umum (pembangunan, pemberdayaan, bantuan sosial), bukan untuk pembiayaan kunjungan perangkat desa."
+  },
+  {
+    "id": 91,
+    "question": "Lembaga kemasyarakatan Desa sebagaimana dimaksud dalam pasal 94 Undang-Undang Nomor 6 tahun 2014 merupakan…",
+    "options": [
+      "Wadah partisipasi masyarakat desa sebagai mitra pemerintah desa",
+      "Wadah persatuan pemuda penggerak desa",
+      "Wadah penampungan aspirasi masyarakat desa",
+      "Wadah penghimpun permasalahan masyarakat desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lembaga Kemasyarakatan Desa (LKD) adalah wadah partisipasi masyarakat dan mitra Pemerintah Desa (Pasal 94 UU Desa)."
+  },
+  {
+    "id": 92,
+    "question": "Berikut ini tugas lembaga kemasyarakatan Desa kecuali…",
+    "options": [
+      "Melakukan pemberdayaan masyarakat desa",
+      "Mengatur penyelenggaraan pemerintahan desa",
+      "Ikut serta merencanakan dan melaksanakan pembangunan",
+      "Meningkatkan pelayanan masyarakat desa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "LKD berfungsi membantu dan memfasilitasi, bukan mengatur penyelenggaraan pemerintahan desa."
+  },
+  {
+    "id": 93,
+    "question": "berikut ini yang bukan merupakan pembinaan dan pengawasan yang dilakukan oleh pemerintah daerah kabupaten atau kota terhadap penyelenggaraan pemerintahan desa adalah…",
+    "options": [
+      "Ikut campur dalam pengelolaan keuangan desa dan pengelolaan aset desa",
+      "Melakukan fasilitasi penyelenggaraan pemerintahan desa",
+      "Mengawasi pengelolaan keuangan desa dan pendayagunaan aset desa",
+      "melakukan pembinaan dan pengawasan penyelenggaraan pemerintahan desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pemerintah daerah tidak diperbolehkan untuk ikut campur dalam operasional pengelolaan keuangan dan aset Desa."
+  },
+  {
+    "id": 94,
+    "question": "pemberdayaan masyarakat desa oleh pemerintah pemerintah daerah provinsi dan pemerintah daerah kabupaten atau kota dilaksanakan dengan hal berikut kecuali…",
+    "options": [
+      "Pendampingan dalam perencanaan",
+      "Pendampingan dalam pelaksanaan",
+      "Pemantauan seluruh kegiatan masyarakat desa",
+      "Pemantauan pembangunan desa dan kawasan perdesaan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pemberdayaan dilakukan melalui pendampingan dan pemantauan pembangunan, bukan pemantauan seluruh kegiatan masyarakat secara umum."
+  },
+  {
+    "id": 95,
+    "question": "kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya yang masih hidup harus memiliki wilayah dan paling kurang memenuhi salah satu atau gabungan unsur adanya…",
+    "options": [
+      "Pranata pemerintahan adat",
+      "Harta kekayaan dan atau benda adat",
+      "Perangkat norma hukum adat",
+      "Semua benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Ketiga unsur tersebut adalah syarat pengakuan kesatuan masyarakat hukum adat."
+  },
+  {
+    "id": 96,
+    "question": "selain untuk membantu pelaksanaan fungsi penyelenggaraan pemerintahan desa pendayagunaan lembaga kemasyarakatan desa yang ada dalam membantu…",
+    "options": [
+      "Pelaksana pembangunan desa",
+      "Pembinaan kemasyarakatan desa",
+      "Pemberdayaan masyarakat desa",
+      "Semua benar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "LKD membantu Pemerintah Desa di empat bidang utama: penyelenggaraan pemerintahan, pelaksanaan pembangunan, pembinaan kemasyarakatan, dan pemberdayaan masyarakat."
+  },
+  {
+    "id": 97,
+    "question": "Kerjasama antar desa dapat meliputi hal berikut yaitu…",
+    "options": [
+      "Bidang keamanan dan ketertiban",
+      "Kerjasama antar kepala desa",
+      "Kerjasama antar perangkat desa",
+      "Semua benar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kerja sama antar Desa meliputi bidang pembangunan, pemerintahan, pembinaan, dan pemberdayaan masyarakat, yang dapat mencakup keamanan dan ketertiban."
+  },
+  {
+    "id": 98,
+    "question": "Kekayaan milik desa yang berupa tanah disertifikatkan atas nama…",
+    "options": [
+      "Pemerintah desa",
+      "Kepala desa",
+      "Pemerintah daerah atau kota",
+      "Masyarakat desa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Aset Desa, termasuk tanah, disertifikatkan atas nama Pemerintah Desa."
+  },
+  {
+    "id": 99,
+    "question": "Dalam rangka pengelolaan keuangan Desa kepala desa melimpahkan sebagian kewenangannya kepada…",
+    "options": [
+      "Perangkat desa yang ditunjuk",
+      "Anggota BPD yang ditunjuk",
+      "Orang kepercayaan",
+      "Semua jawaban benar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kepala Desa melimpahkan sebagian kekuasaannya kepada Perangkat Desa yang ditunjuk sebagai Pelaksana Teknis Pengelolaan Keuangan Desa (PTPKD)."
+  },
+  {
+    "id": 100,
+    "question": "kekayaan milik desa yang telah diambil alih oleh pemerintah daerah kabupaten atau kota dikembalikan kepada Desa kecuali…",
+    "options": [
+      "Kekayaan berupa tanah",
+      "Kekayaan berupa hutan",
+      "Kekayaan yang sudah digunakan untuk fasilitas umum",
+      "Kekayaan yang terletak di antara dua desa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kekayaan Desa yang sudah digunakan untuk fasilitas umum (fasum) atau fasilitas sosial (fasos) tidak dikembalikan kepada Desa."
   }
 ]
